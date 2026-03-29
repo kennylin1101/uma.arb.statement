@@ -30,5 +30,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 14:54:48 UTC",
+    "market": "j2100-gir-iwa-2026-03-29-draw",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.01,
+    "profit": 0.01,
+    "dev_fee": 0.001,
+    "investors": {
+      "A": {
+        "alloc": 0.009,
+        "balance": 45.35,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
