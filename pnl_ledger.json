@@ -142,5 +142,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 21:29:17 UTC",
+    "market": "mlb-tb-stl-2026-03-29-total-8pt5",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.01,
+    "profit": 0.01,
+    "dev_fee": 0.001,
+    "investors": {
+      "A": {
+        "alloc": 0.009,
+        "balance": 46.51,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
