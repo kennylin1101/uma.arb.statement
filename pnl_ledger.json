@@ -46,5 +46,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 15:44:14 UTC",
+    "market": "cricpsl-lah-kar-2026-03-29-toss-winner",
+    "tx_hash": "",
+    "cost": 5.93,
+    "payout": 5.9899,
+    "profit": 0.0599,
+    "dev_fee": 0.006,
+    "investors": {
+      "A": {
+        "alloc": 0.0539,
+        "balance": 45.41,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
