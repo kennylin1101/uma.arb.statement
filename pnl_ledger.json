@@ -174,5 +174,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 22:27:19 UTC",
+    "market": "mlb-bos-cin-2026-03-29",
+    "tx_hash": "",
+    "cost": 4.89,
+    "payout": 4.9394,
+    "profit": 0.0494,
+    "dev_fee": 0.0049,
+    "investors": {
+      "A": {
+        "alloc": 0.0445,
+        "balance": 46.57,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
