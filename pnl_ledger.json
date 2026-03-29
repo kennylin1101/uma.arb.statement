@@ -126,5 +126,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 21:10:36 UTC",
+    "market": "highest-temperature-in-toronto-on-march-29-2026-10corhigher",
+    "tx_hash": "",
+    "cost": 6.27,
+    "payout": 7.125,
+    "profit": 0.855,
+    "dev_fee": 0.0855,
+    "investors": {
+      "A": {
+        "alloc": 0.7695,
+        "balance": 46.5,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
