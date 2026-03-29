@@ -94,5 +94,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 19:22:13 UTC",
+    "market": "crint-gha-tza-2026-03-29-team-top-batter-tza",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.02,
+    "profit": 0.02,
+    "dev_fee": 0.002,
+    "investors": {
+      "A": {
+        "alloc": 0.018,
+        "balance": 45.63,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
