@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "time": "2026-03-29 13:54:21 UTC",
+    "market": "highest-temperature-in-taipei-on-march-28-2026-21c",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.01,
+    "profit": 0.01,
+    "dev_fee": 0.001,
+    "investors": {
+      "A": {
+        "alloc": 0.009,
+        "balance": 45.33,
+        "share_pct": 100.0
+      }
+    }
+  }
+]
