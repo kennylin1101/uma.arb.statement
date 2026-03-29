@@ -62,5 +62,37 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-29 17:57:12 UTC",
+    "market": "will-molly-or-molotov-be-said-20-times-at-the-rotterdam-grand-final",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.101,
+    "profit": 0.101,
+    "dev_fee": 0.0101,
+    "investors": {
+      "A": {
+        "alloc": 0.0909,
+        "balance": 45.51,
+        "share_pct": 100.0
+      }
+    }
+  },
+  {
+    "time": "2026-03-29 17:57:12 UTC",
+    "market": "will-pistol-be-said-20-times-at-the-rotterdam-grand-final",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.101,
+    "profit": 0.101,
+    "dev_fee": 0.0101,
+    "investors": {
+      "A": {
+        "alloc": 0.0909,
+        "balance": 45.61,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
