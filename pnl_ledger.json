@@ -302,5 +302,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-30 04:20:31 UTC",
+    "market": "nba-nyk-okc-2026-03-29-points-karl-anthony-towns-17pt5",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.01,
+    "profit": 0.01,
+    "dev_fee": 0.001,
+    "investors": {
+      "A": {
+        "alloc": 0.009,
+        "balance": 47.22,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
