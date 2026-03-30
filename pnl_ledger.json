@@ -270,5 +270,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-30 02:32:23 UTC",
+    "market": "nba-bos-cha-2026-03-29-assists-brandon-miller-3pt5",
+    "tx_hash": "",
+    "cost": 4.5,
+    "payout": 5.0,
+    "profit": 0.5,
+    "dev_fee": 0.05,
+    "investors": {
+      "A": {
+        "alloc": 0.45,
+        "balance": 47.16,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
