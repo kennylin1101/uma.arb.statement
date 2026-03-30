@@ -350,5 +350,20 @@
         "share_pct": 100.0
       }
     }
-  }
-]
+  },
+  {
+    "time": "2026-03-30 09:51:22 UTC",
+    "market": "dota2-pr1-vpp-2026-03-30-game1-kill-over-51pt5",
+    "tx_hash": "",
+    "cost": 4.95,
+    "payout": 5.0,
+    "profit": 0.05,
+    "dev_fee": 0.005,
+    "investors": {
+      "A": {
+        "alloc": 0.045,
+        "balance": 47.35,
+        "share_pct": 100.0
+      }
+    }
+  },
