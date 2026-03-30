@@ -286,5 +286,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-30 03:32:33 UTC",
+    "market": "lol-fxw7-lev-2026-03-29-game1-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 4.95,
+    "payout": 5.0,
+    "profit": 0.05,
+    "dev_fee": 0.005,
+    "investors": {
+      "A": {
+        "alloc": 0.045,
+        "balance": 47.21,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
