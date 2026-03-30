@@ -318,5 +318,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-30 05:56:36 UTC",
+    "market": "cs2-mouzn-aim1-2026-03-29-game2-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 6.94,
+    "payout": 7.0101,
+    "profit": 0.0701,
+    "dev_fee": 0.007,
+    "investors": {
+      "A": {
+        "alloc": 0.0631,
+        "balance": 47.29,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
