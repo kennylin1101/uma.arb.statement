@@ -367,3 +367,36 @@
       }
     }
   },
+  {
+    "time": "2026-03-30 09:51:22 UTC",
+    "market": "dota2-pr1-vpp-2026-03-30-game1-kill-over-52pt5",
+    "tx_hash": "",
+    "cost": 2.54,
+    "payout": 2.5657,
+    "profit": 0.0257,
+    "dev_fee": 0.0026,
+    "investors": {
+      "A": {
+        "alloc": 0.0231,
+        "balance": 47.37,
+        "share_pct": 100.0
+      }
+    }
+  },
+  {
+    "time": "2026-03-30 13:34:51 UTC",
+    "market": "lol-bro1-nsea-2026-03-30-game1-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 4.2,
+    "payout": 4.2857,
+    "profit": 0.0857,
+    "dev_fee": 0.0086,
+    "investors": {
+      "A": {
+        "alloc": 0.0771,
+        "balance": 47.46,
+        "share_pct": 100.0
+      }
+    }
+  }
+]
