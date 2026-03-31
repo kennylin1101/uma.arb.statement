@@ -478,5 +478,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 11:12:07 UTC",
+    "market": "cs2-ruby1-bbp-2026-03-31-game1-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 4.95,
+    "payout": 5.0,
+    "profit": 0.05,
+    "dev_fee": 0.005,
+    "investors": {
+      "A": {
+        "alloc": 0.045,
+        "balance": 47.63,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
