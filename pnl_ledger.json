@@ -494,5 +494,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 11:27:55 UTC",
+    "market": "cs2-the9-vtm-2026-03-31-game1-odd-even-total-rounds",
+    "tx_hash": "",
+    "cost": 2.99,
+    "payout": 3.0202,
+    "profit": 0.0302,
+    "dev_fee": 0.003,
+    "investors": {
+      "A": {
+        "alloc": 0.0272,
+        "balance": 47.66,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
