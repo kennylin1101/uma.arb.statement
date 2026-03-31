@@ -574,5 +574,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 19:03:43 UTC",
+    "market": "cs2-100t-mgc-2026-03-31-game3-odd-even-total-rounds",
+    "tx_hash": "",
+    "cost": 10.0,
+    "payout": 10.01,
+    "profit": 0.01,
+    "dev_fee": 0.001,
+    "investors": {
+      "A": {
+        "alloc": 0.009,
+        "balance": 47.94,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
