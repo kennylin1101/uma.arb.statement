@@ -526,5 +526,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 15:05:52 UTC",
+    "market": "cs2-minlat-heroa-2026-03-31-game1-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 5.5242,
+    "payout": 5.58,
+    "profit": 0.0558,
+    "dev_fee": 0.0056,
+    "investors": {
+      "A": {
+        "alloc": 0.0502,
+        "balance": 47.77,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
