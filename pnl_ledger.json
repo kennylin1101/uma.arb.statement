@@ -446,5 +446,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 06:56:11 UTC",
+    "market": "cs2-zomb-cw4-2026-03-30-game2-odd-even-total-rounds",
+    "tx_hash": "",
+    "cost": 3.22,
+    "payout": 3.2525,
+    "profit": 0.0325,
+    "dev_fee": 0.0033,
+    "investors": {
+      "A": {
+        "alloc": 0.0293,
+        "balance": 47.54,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
