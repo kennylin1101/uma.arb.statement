@@ -558,5 +558,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 18:09:20 UTC",
+    "market": "cs2-mag-bsta-2026-03-31-game1-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 5.5242,
+    "payout": 5.58,
+    "profit": 0.0558,
+    "dev_fee": 0.0056,
+    "investors": {
+      "A": {
+        "alloc": 0.0502,
+        "balance": 47.93,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
