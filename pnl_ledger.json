@@ -398,5 +398,21 @@
         "share_pct": 100.0
       }
     }
+  },
+  {
+    "time": "2026-03-31 03:28:18 UTC",
+    "market": "cs2-g2-ace1-2026-03-30-game2-odd-even-total-kills",
+    "tx_hash": "",
+    "cost": 5.15,
+    "payout": 5.202,
+    "profit": 0.052,
+    "dev_fee": 0.0052,
+    "investors": {
+      "A": {
+        "alloc": 0.0468,
+        "balance": 47.42,
+        "share_pct": 100.0
+      }
+    }
   }
 ]
